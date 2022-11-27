@@ -15,7 +15,7 @@ In this group project, I used Spotify song characteristics to predict ratings an
 This group project constisted of building several ANNs to predict student performance based on previous grades using Keras Tensorflow. The models were: Perceptron, Feedforward NN, Wide and Deep NN, Wide and Deep NN with an embedding layer. 
 
 ## Project 4: [MSc Dissertation](https://github.com/sabrinasforza/Portfolio/blob/main/MSc%20dissertation.docx.pdf)
-In my MSc dissertation, I analysed urban data on public transport availability to predict the incidence of Gender-Based Violence in Scotland using R on RStudio. 
+In my MSc dissertation, I analysed urban data on public transport availability to predict the incidence of Gender-Based Violence in Scotland through Poisson regression using R on RStudio  
 
 ## Project 5: [NatWest Hackathon](https://github.com/sabrinasforza/Portfolio/files/10098860/Hackathon_winning_proposal.pdf)
 
