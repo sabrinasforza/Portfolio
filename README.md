@@ -8,7 +8,7 @@ In ihis project, I explored gender differences among UK Tech Workers with respec
 [University project 1 - report.pdf](https://github.com/sabrinasforza/Portfolio/files/10098864/University.project.1.-.report.pdf)
 
 
-## [Project 2: Predicting the popularity and the genre of songs using Regression and Classification] (https://github.com/sabrinasforza/Portfolio/blob/main/University_project_2_regression_and_classification.ipynb/) 
+## [Project 2: Predicting the popularity and the genre of songs using Regression and Classification](https://github.com/sabrinasforza/Portfolio/blob/main/University_project_2_regression_and_classification.ipynb/) 
 
 
 ## Project 3: 
